@@ -7,4 +7,6 @@ config.py 안의 "list_path" 에 들어간 경로의 모든 파일 목록을 불
 
 
 * golang으로 만든 버전:
+  * https://github.com/noobbrother112/ShuffleFilesgo
 * python으로 만든 버전:
+  * https://github.com/noobbrother112/ShuffleFilespy
